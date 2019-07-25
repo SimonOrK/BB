@@ -5,5 +5,5 @@
  */
 public class nnnnn {
     public void as(String str){}
-    public void ad(){}
+    public void adddd(){}
 }
