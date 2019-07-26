@@ -6,4 +6,5 @@
 
  */
 public class bbbbbbbbb {
+    public void mms(){}
 }
